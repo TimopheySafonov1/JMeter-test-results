@@ -1,0 +1,4 @@
+The main objectives of the load testig ware achived:
+-time aseertion was exucuted as expected
+-JSON resopnce assertion was executed as expected
+-HTTP resopnce was excuted as expected
